@@ -1,7 +1,7 @@
-# BLAZERGAMES
+# Site33
 
-*Subscribe to Blazer!!!*
-https://youtube.com/c/blazerhm
+*Site owned by LRfrog!*
+[https://www.youtube.com/channel/UCp6nlBTuz5ZB7Ba6KdlG6MA]
 
 ## Deployment
 Here are some other deployment options to deploy the site on your own.
